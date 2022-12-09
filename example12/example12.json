@@ -1,0 +1,6 @@
+{"A": [1, 2], "B": [3, 4], "A_ranking": [1, 2], "B_ranking": [2, 3], "envy-free": false}
+{"A": [1, 3], "B": [2, 4], "A_ranking": [1, 3], "B_ranking": [3, 4], "envy-free": false}
+{"A": [1, 4], "B": [2, 3], "A_ranking": [1, 4], "B_ranking": [2, 4], "envy-free": false}
+{"A": [2, 3], "B": [1, 4], "A_ranking": [2, 3], "B_ranking": [1, 3], "envy-free": false}
+{"A": [2, 4], "B": [1, 3], "A_ranking": [2, 4], "B_ranking": [1, 2], "envy-free": false}
+{"A": [3, 4], "B": [1, 2], "A_ranking": [3, 4], "B_ranking": [1, 4], "envy-free": false}
